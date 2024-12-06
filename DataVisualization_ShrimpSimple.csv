@@ -1,0 +1,113 @@
+commonName,speciesName,maxLength,minDepthRange,maxDepthRange,environment,numberOfEnvironments,climateZone,distribution,numberOfLocations
+abalone visored shrimp,"Betaeus harfordi (Kingsley, 1878)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+Adonis shrimp,"Parapenaeopsis venusta (De Man, 1907)",4.5,11,44,benthic,1,tropical,"western central pacific: malaysia, indonesia, and australia",4
+Aesop shrimp,"Pandalus montagui (Leach, 1814)",16,0,968,benthic,1,temperate,"northern atlantic and the arctic: from canada and usa to uk, germany and russia",7
+African mud shrimp,"Solenocera africana (Stebbing, 1917)",14,25,774,benthic,1,tropical,"eastern atlantic and western indian ocean: morocco, gibraltar strait to durban, south africa",26
+african spider shrimp,"Nematocarcinus africanus (Crosnier & Forest, 1973)",10.4,200,755,benthic,1,tropical,eastern atlantic : from senegal to namibia,20
+akiami paste shrimp,"Acetes japonicus (Kishinouye, 1905)",1.8,1,100,"pelagic, brackish",2,tropical,indo-west pacific,1
+alamang shrimp,"Acetes sibogae (Hansen, 1919)",4,0,55,"benthopelagic, brackish",2,tropical,indo-west pacific: africa to australia,3
+Alaska bay shrimp or Alaska shrimp,"Crangon alaskensis (Lockington, 1877)",n/a,n/a,n/a,benthic,1,temperate,eastern pacific: alaska to usa,3
+Alaska coastal shrimp,"Heptacarpus moseri (M. J. Rathbun, 1902)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+Alaskan pink shrimp,"Pandalus eous (Makarov, 1935)",n/a,500,900,benthic,1,temperate,pacific ocean: korea and canada,3
+Aleutian coastal shrimp,"Heptacarpus maxillipes (M. J. Rathbun, 1902)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+alkali fairy shrimp,"Branchinecta mackini (Dexter, 1956)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,middle america,1
+American grass shrimp,"Cuapetes americanus (Kingsley, 1878)",n/a,1,73,benthic,1,subtropical,western atlantic: canada to brazil,12
+anchialine pool shrimp or Maui anchialine shrimp,"Palaemonella burnsi (Holthuis, 1973)",n/a,n/a,n/a,benthic,1,n/a,indo-west pacific,1
+anchialine snapping shrimp,"Metabetaeus lohena (A. H. Banner & D. M. Banner, 1960)",n/a,n/a,n/a,benthic,1,n/a,n/a,0
+anemone shrimp or squat anemone shrimp,"Thor amboinensis (De Man, 1888)",n/a,0,60,benthic,1,tropical,indo-pacific and atlantic ocean,2
+Arabian red shrimp,"Aristeus alcocki (Ramadan, 1938)",15,270,270 - 1086 m,benthic,1,tropical,indian ocean,1
+Arafura shrimp,"Parapenaeopsis arafurica (Racek & Dall, 1965)",5.8,16,16,penthic,1,tropical,western central pacific: australia and new guinea,3
+Arctic fairy shrimp,"Polyartemiella hazeni (Murdoch, 1884)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,north america,1
+Argentine red shrimp,"Pleoticus muelleri (Spence Bate, 1888)",19,2,174,benthic,1,subtropical,southwest atlantic: from brazil to argentina,5
+Argentine stiletto shrimp,"Artemesia longinaris (Spence Bate, 1888)",10.6,0,125,benthic,1,subtropical,"southwest atlantic: east coast of south america from rio de janeiro, brazil to puerto de rawson, argentina",5
+armed nylon shrimp,"Heterocarpus ensifer (A. Milne-Edwards, 1881)",14.2,57,3000,benthic,1,tropical,indo-pacific and atlantic ocean: west african coast from gibraltar to congo and indonesia and the philippines,21
+arrow shrimp 1,"Tozeuma carolinense (Kingsley, 1878)",n/a,0,75,benthic,1,tropical,"western atlantic ocean: usa, bonaire, costa rica and panama",5
+arrow shrimp 2,"Plesionika heterocarpus (A. Costa, 1871)",8.8,35,850,benthic,1,subtropical,eastern atlantic and the mediterranean,2
+Atlantic ditch shrimp,"Palaemon varians (Leach, 1813)",3.7,n/a,n/a,"benthic, brackish",2,temperate,northeast atlantic and the mediterranean: from north-west europe and western mediterranean and on the atlantic coast of morocco,4
+Atlantic mud shrimp,"Solenocera membranacea (Risso, 1816)",11.2,3,871,benthic,1,subtropical,"eastern atlantic and the mediterranean: from ireland to senegal, including the azores and canary islands, and the entire mediterranean",12
+Atlantic pearl oyster shrimp,"Pontonia manningi (Fransen, 2000)",n/a,0,60,benthic,1,tropical,atlantic ocean,1
+Atlantic pen shrimp,"Pontonia domestica (Gibbes, 1850)",n/a,1,42,benthic,1,tropical,atlantic ocean,1
+Australian ghost shrimp,"Trypaea australiensis (Dana, 1852)",6,n/a,n/a,"benthic, brackish",2,subtropical,indo-west pacific: australia,2
+Australian rose shrimp,"Parapenaeus australiensis (Dall, 1957)",16,124,180,benthic,1,tropical,"western central pacific: indonesia to philippines, australia and fiji",6
+aviu shrimp,"Acetes americanus (Ortmann, 1893)",n/a,0,42,"pelagic, brackish",2,tropical,western atlantic: from usa to suriname and french guiana,11
+Balcones cave shrimp,"Palaemon antrorum (J. E. Benedict, 1896)",n/a,n/a,n/a,"benthic, freshwater",2,subtropical,north american inland water: usa and canada,3
+banded coral shrimp,"Stenopus hispidus (Olivier, 1811)",n/a,1,200,benthic,1,tropical,"indo-pacific and western atlantic: from the red sea and south africa to tuamotu is, hawaii and easter is, in the atlantic: north carolina and bermuda to the caribbean sea and south to sao paulo, brazil",14
+banded snapping shrimp,"Alpheus armillatus (H. Milne-Edwards, 1837)",n/a,0,14,benthopelagic,1,tropical,western atlantic ocean: usa to the west indies and brazil,4
+barred grass shrimp,"Palaemon ritteri (Holmes, 1895)",n/a,0,38,benthopelagic,1,subtropical,"arctic, eastern pacific and western central atlantic",3
+barred shrimp,"Heptacarpus pugettensis (Jensen, 1983)",n/a,n/a,n/a,benthic,1,temperate,eastern pacific: canada,2
+basketstar shrimp,"Periclimenes perryae (Chace, 1942)",n/a,0,10,reef-associated,1,tropical,western atlantic ocean,1
+bay ghost shrimp,"Neotrypaea californiensis (Dana, 1854)",11.5,0,100,"benthic, brackish",2,temperate,"eastern pacific: from southeast alaska, usa to san quintin bay, baja california, mexico and el coyote estuary, point abreojos baja california sur, mexico",3
+bay shrimp or blackspotted bay shrimp,"Crangon nigromaculata (Lockington, 1877)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+beach ghost shrimp,"Callichirus islagrande (Schmitt, 1935)",n/a,0,3,"benthic, brackish",2,tropical,western atlantic ocean,1
+beaver-tail fairy shrimp,"Thamnocephalus platyurus (Packard, 1877)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,middle america,1
+Bermuda comb shrimp,"Leptochela bermudensis (Gurney, 1939)",n/a,0,1000,benthopelagic,1,tropical,western atlantic: canada to brazil,13
+Bermuda night shrimp,"Processa bermudensis (Rankin, 1900)",n/a,2,45,benthic,1,tropical,southwest atlantic: brazil,2
+Bermuda shrimp,"Periclimenes harringtoni (Lebour, 1949)",n/a,0,119,benthic,1,subtropical,"western atlantic: usa, canada and bonaire; the arctic",5
+Bermuda sponge shrimp,"Holthuisaeus bermudensis (Armstrong, 1940)",n/a,0,20,benthic,1,tropical,western atlantic: canada to brazil,13
+biform ghost shrimp,"Biffarius biformis (Biffar, 1971)",n/a,0,15,benthic,1,tropical,western atlantic ocean,1
+bigclaw river shrimp,"Macrobrachium carcinus (Linnaeus, 1758)",n/a,0,2,"benthic, freshwater, brackish",3,subtropical,"western atlantic, arctic and north american inland waters",3
+bigclaw snapping shrimp,"Alpheus heterochaelis (Say, 1818)",n/a,0,79,"benthic, brackish",2,tropical,western atlantic ocean,1
+bird shrimp,"Metapenaeus lysianassa (De Man, 1888)",5.5,5,9,"benthic, brackish",2,tropical,indo-west pacific: india to vietnam and north borneo,10
+black sponge shrimp,"Periclimenaeus pearsei (Schmitt, 1932)",n/a,0,46,benthic,1,subtropical,western atlantic: usa and canada; the arctic,4
+black urchin shrimp or black-urchin shrimp,"Tuleariocaris neglecta (Chace, 1969)",n/a,0,2,benthic,1,tropical,western atlantic ocean,1
+blackspotted bay shrimp,"Crangon nigromaculata (Lockington, 1877)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+blacktail bay shrimp or blacktailed shrimp,"Crangon nigricauda (Stimpson, 1856)",n/a,n/a,n/a,benthic,1,temperate,eastern pacific: canada,2
+blue and red shrimp,"Aristeus antennatus (Risso, 1816)",22,80,3300,benthic,1,tropical,"eastern atlantic, mediterranean and western indian ocean: from brazil to france, south to natal, south africa and east to maldives",12
+blue mud shrimp,"Upogebia pugettensis (Dana, 1852)",15,0,1,"benthic, brackish",2,temperate,"eastern pacific: prince william sound, alaska to morro bay, california, usa",4
+blue rhino shrimp or gabon shrimp,"Atya gabonensis (Giebel, 1875)",n/a,n/a,n/a,pelagic,1,tropical,east atlantic,1
+blue shrimp,"Penaeus stylirostris (Stimpson, 1874)",23,0,45,"benthic, brackish",2,tropical,eastern pacific: from mexico to peru,11
+blunt blade shrimp,"Spirontocaris truncata (M. J. Rathbun, 1902)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+bluntclaw snapping shrimp,"Alpheus amblyonyx (Chace, 1972)",n/a,0,40,benthic,1,tropical,southwest atlantic: brazil,2
+bristle snapping shrimp,"Alpheus spongiarum (Coutière, 1897)",n/a,37,42,reef-associated,1,tropical,indo-west pacific: madagascar to japan and australia,20
+bristled river shrimp,"Macrobrachium olfersii (Wiegmann, 1836)",n/a,0,2,"benthic, freshwater, brackish",3,subtropical,western atlantic: usa and canada; the arctic,4
+broadspine ghost shrimp,"Dawsonius latispina (Dawson, 1967)",n/a,3,134,benthic,1,tropical,western central atlantic,1
+brown grass shrimp,"Leander tenuicornis (Say, 1818)",n/a,0,71,benthic,1,tropical,"indo-pacific, atlantic and the mediterranean",3
+brown rock shrimp,"Sicyonia brevirostris (Stimpson, 1871)",15.3,1,330,benthic,1,tropical,"eastern pacific and western atlantic: in the eastern pacific from colima to chiapas, mexico; in the western atlantic from norfolk virginia, along usa and bahamas to the southern coast of cuba, gulf of mexico from florida keys to yucatan",7
+brown rough shrimp,"Trachysalambria fulva (Dall, 1957)",6.3,8,85,benthic,1,tropical,indo-west pacific: malaysia to the philippines and australia,4
+brown shrimp or northern brown shrimp,"Penaeus aztecus (Ives, 1891)",19.5,0,200,benthic,1,tropical,"western atlantic; introduced to french polynesia, new caledonia, and the mediterranean sea",4
+brown snapping shrimp,"Alpheus armatus (M. J. Rathbun, 1901)",n/a,0,2,pelagic-neritic,1,tropical,"western atlantic: west indian region, from bahamas and florida to tobago and mexico",5
+brownbar snapping shrimp,"Alpheus lobidens (De Haan, 1849)",n/a,0,25,benthic,1,tropical,eastern and central mediterranean and entire indo-pacific: red sea to hawaii,4
+bryozoan shrimp,"Thor floridanus (Kingsley, 1878)",n/a,0,59,benthic,1,tropical,"western atlantic: costa rica, bonaire and usa",4
+bumblebee shrimp,"Gnathophyllum americanum (Guérin-Méneville, 1855)",n/a,0,50,reef-associated,1,subtropical,"indo-pacific, western atlantic and the arctic",3
+Burkenroad blunt-tail shrimp,"Bentheogennema burkenroadi (Krygier & Wasmer, 1975)",n/a,0,2000,pelagic,1,temperate,"eastern pacific, northwest atlantic, and the arctic ocean",3
+California bay shrimp or california shrimp,"Crangon franciscorum (Stimpson, 1856)",6,5,50,"benthic, brackish",2,temperate,eastern pacific: alaska to central california,3
+California coastal shrimp,"Heptacarpus paludicola (Holmes, 1900)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+California freshwater shrimp,"Syncaris pacifica (Holmes, 1895)",n/a,n/a,n/a,"benthic, freshwater",2,tropical,north american inland waters,1
+California green shrimp,"Hippolyte californiensis (Holmes, 1895)",n/a,n/a,n/a,benthic,1,tropical,eastern pacific,1
+Cameroon fan shrimp or gabon shrimp,"Atya gabonensis (Giebel, 1875)",n/a,n/a,n/a,pelagic,1,tropical,east atlantic,1
+Cameroon ghost shrimp,"Lepidophthalmus turneranus (White, 1861)",14.5,n/a,n/a,"benthic, freshwater, brackish",3,tropical,eastern central atlantic: from the ivory coast to congo,10
+cape mud shrimp,"Upogebia capensis (Krauss, 1843)",1.6,n/a,n/a,benthic,1,subtropical,southeast atlantic and western indian ocean: south africa and mozambique,4
+carabali shrimp,"Rimapenaeus byrdi (Burkenroad, 1934)",18.9,2,40,"benthic, brackish",2,tropical,"eastern pacific: from gulf of california off isla altamura, inaloa (mexico), guatemala, gulf of nicoya (coasta rica), panama, golfo de guayaquil (ecuador), colombia, to paita (peru)",9
+Caribbean ascidian shrimp,"Periclimenaeus ascidiarum (Holthuis, 1951)",n/a,0,73,benthic,1,subtropical,"western atlantic: usa, canada and bonaire; the arctic",5
+Caribbean fairy shrimp,"Streptocephalus similis (Baird, 1852)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,caribbean,1
+Caribbean glass-sponge shrimp,"Spongiocaris hexactinellicola (Berggren, 1993)",n/a,606,1064,benthic,1,tropical,western central atlantic,1
+Caribbean pen shrimp,"Pontonia mexicana (Guérin-Méneville, 1856)",n/a,0,2,benthic,1,tropical,western atlantic ocean,1
+Caribbean velvet shrimp,"Metapenaeopsis goodei (S. I. Smith, 1885)",1.9,0,329,benthic,1,tropical,western atlantic and the arctic: from usa to brazil and the west indies,13
+carinate glass shrimp,"Leptochela carinata (Ortmann, 1893)",n/a,0,600,benthopelagic,1,tropical,western atlantic: canada to brazil,12
+Carolinian ghost shrimp,"Callichirus major (Say, 1818)",n/a,0,2,"benthic, brackish",2,tropical,western atlantic ocean,1
+catalonian striped shrimp,"Plesionika antigai (Zariguiey Alvarez, 1955)",n/a,120,800,benthic,1,subtropical,"atlantic ocean and the mediterranean: english channel to senegal; western mediterranean from spain to sicily and the west coast of italy, and from morocco to tunisia",11
+cerulean sargassum shrimp,"Hippolyte coerulescens (J. C. Fabricius, 1775)",n/a,0,198,benthic,1,tropical,western atlantic ocean: chile and brazil,3
+chameleon shrimp or bent mysid shrimp,"Praunus flexuosus (O. F. Müller, 1776)",n/a,0,5,"demersal, brackish",2,temperate,arctic and northern atlantic,2
+changallo shrimp,"Macrobrachium caementarius (Molina, 1782)",n/a,n/a,n/a,benthic,1,subtropical,southeast pacific: chile,2
+Chilean knife shrimp,"Haliporoides diomedeae (Faxon, 1893)",10.1,240,1865,benthic,1,tropical,"eastern pacific: costa rica to chiloe, chile",7
+chilean nylon shrimp,"Heterocarpus reedi (Bahamonde, 1955)",3.4,155,424,benthic,1,subtropical,southeast pacific: chile,2
+Chinese grass shrimp,"Palaemon sinensis (Sollaud, 1911)",n/a,n/a,n/a,benthic,1,subtropical,northwest pacific: china,2
+Chinese mud shrimp,"Solenocera koelbeli (De Man, 1911)",2.2,50,152,benthic,1,tropical,indo-west pacific,1
+cinnamon river shrimp,"Macrobrachium acanthurus (Wiegmann, 1836)",n/a,0,2,"benthic, freshwater, brackish",3,subtropical,"western atlantic, arctic and the american inland waters",3
+circled shrimp or circled squat shrimp,"Gnathophyllum circellum (Manning, 1963)",n/a,0,18,benthic,1,subtropical,arctic and western atlantic,2
+circumpolar fairy shrimp,"Branchinecta paludosa (O. F. Müller, 1788)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,europe and northern asia (excluding china),2
+cleaner shrimp,"Lysmata grabhami (Gordon, 1935)",n/a,6,91,benthic,1,tropical,western central pacific and western atlantic,2
+clear cleaner shrimp,"Urocaridella antonbruunii (Bruce, 1967)",n/a,2,66,benthic,1,tropical,"indo-west pacific: australia, new caledonia and palau",4
+clear sponge shrimp,"Periclimenaeus wilsoni (Hay, 1917)",n/a,18,73,benthic,1,subtropical,western atlantic: usa and canada; the arctic,4
+coarse shrimp,"Megokris granulosus (Haswell, 1879)",11.2,5,81,benthic,1,tropical,"indo-west pacific: from kuwait, persian gulf east to chinese taipei and south to new south wales, australia",16
+coastal mud shrimp or udang merah,"Solenocera crassicornis (H. Milne Edwards, 1837)",12.9,0,175,benthic,1,tropical,"indo-west pacific: from persian gulf of india, east of papua new guinea, and north to japan and china",10
+coastal mud shrimp,"Upogebia affinis (Say, 1818)",n/a,0,38,benthic,1,tropical,western atlantic ocean,1
+cock shrimp,"Exhippolysmata oplophoroides (Holthuis, 1948)",n/a,0,27,benthic,1,tropical,western atlantic ocean,1
+Colorado fairy shrimp,"Branchinecta coloradensis (Packard, 1874)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,north america,1
+comb shrimp,"Solenocera pectinata (Spence Bate, 1888)",7.5,4,205,benthic,1,tropical,indo-west pacific and atlantic ocean: from eastern africa to japan and wallis and futuna islands,6
+combclaw shrimp,"Leptochela serratorbita (Spence Bate, 1888)",n/a,0,110,benthic,1,tropical,eastern pacific and western atlantic: canada and brazil,4
+common grass shrimp,"Palaemon vulgaris (Say, 1818)",n/a,0,15,"benthic, brackish",2,tropical,western atlantic: usa and canada; the arctic,4
+common shrimp,"Crangon crangon (Linnaeus, 1758)",8.9,0,50,"benthic, brackish",2,subtropical,northeast atlantic and the mediterranean,2
+companion shrimp,"Exhippolysmata hastatoides (Balss, 1914)",7,15,15,benthic,1,tropical,eastern atlantic: west african coast from sierra leone to angola,14
+conservancy fairy shrimp,"Branchinecta conservatio (Eng, Belk and Eriksen, 1990)",n/a,n/a,n/a,"benthic, freshwater",2,n/a,north america,1
+coonstriped shrimp,"Pandalus hypsinotus (Brandt, 1851)",20.9,5,501,benthic,1,temperate,"northern pacific and northwest atlantic: from korea strait, japan and west bering sea to kuril islands, gulf of alaska and puget sound, washington, usa",8
