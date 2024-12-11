@@ -4,19 +4,39 @@
             "name": "Kingsley",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "abalone visored shrimp",
+                    "speciesName": "Betaeus harfordi",
+                    "year": "1878",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_b",
+                    "commonName": "American grass shrimp",
+                    "speciesName": "Cuapetes americanus",
+                    "year": "1878",
+                    "maxLength": "n/a",
+                    "minDepth": "1",
+                    "maxDepth": "73",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_c",
+                    "commonName": "arrow shrimp",
+                    "speciesName": "Tozeuma carolinense",
+                    "year": "1878",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "75",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_d",
+                    "commonName": "bryozoan shrimp",
+                    "speciesName": "Thor floridanus",
+                    "year": "1878",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "59",
                     "colname": "level3"
                 }
             ],
@@ -27,19 +47,39 @@
             "name": "De Man",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Adonis shrimp",
+                    "speciesName": "Parapenaeopsis venusta",
+                    "year": "1907",
+                    "maxLength": "4.5",
+                    "minDepth": "11",
+                    "maxDepth": "44",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_b",
+                    "commonName": "anemone shrimp or squat anemone shrimp",
+                    "speciesName": "Thor amboinensis",
+                    "year": "1888",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "60",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_c",
+                    "commonName": "bird shrimp",
+                    "speciesName": "Metapenaeus lysianassa",
+                    "year": "1888",
+                    "maxLength": "5.5",
+                    "minDepth": "5",
+                    "maxDepth": "9",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_d",
+                    "commonName": "Chinese mud shrimp",
+                    "speciesName": "Solenocera koelbeli",
+                    "year": "1911",
+                    "maxLength": "2.2",
+                    "minDepth": "50",
+                    "maxDepth": "152",
                     "colname": "level3"
                 }
             ],
@@ -50,11 +90,21 @@
             "name": "Leach",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Aesop shrimp",
+                    "speciesName": "Pandalus montagui",
+                    "year": "1814",
+                    "maxLength": "16",
+                    "minDepth": "0",
+                    "maxDepth": "968",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_b",
+                    "commonName": "Atlantic ditch shrimp",
+                    "speciesName": "Palaemon varians",
+                    "year": "1813",
+                    "maxLength": "3.7",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -65,7 +115,12 @@
             "name": "Stebbing",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "African mud shrimp",
+                    "speciesName": "Solenocera africana",
+                    "year": "1917",
+                    "maxLength": "14",
+                    "minDepth": "25",
+                    "maxDepth": "774",
                     "colname": "level3"
                 }
             ],
@@ -76,7 +131,12 @@
             "name": "Crosnier & Forest",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "african spider shrimp",
+                    "speciesName": "Nematocarcinus africanus",
+                    "year": "1973",
+                    "maxLength": "10.4",
+                    "minDepth": "200",
+                    "maxDepth": "755",
                     "colname": "level3"
                 }
             ],
@@ -87,7 +147,12 @@
             "name": "Kishinouye",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "akiami paste shrimp",
+                    "speciesName": "Acetes japonicus",
+                    "year": "1905",
+                    "maxLength": "1.8",
+                    "minDepth": "200",
+                    "maxDepth": "755",
                     "colname": "level3"
                 }
             ],
@@ -98,7 +163,12 @@
             "name": "Hansen",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "alamang shrimp",
+                    "speciesName": "Acetes sibogae",
+                    "year": "1919",
+                    "maxLength": "4",
+                    "minDepth": "0",
+                    "maxDepth": "55",
                     "colname": "level3"
                 }
             ],
@@ -109,15 +179,30 @@
             "name": "Lockington",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Alaska bay shrimp or Alaska shrimp",
+                    "speciesName": "Crangon alaskensis",
+                    "year": "1877",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "bay shrimp or blackspotted bay shrimp",
+                    "speciesName": "Crangon nigromaculata",
+                    "year": "1877",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "blackspotted bay shrimp",
+                    "speciesName": "Crangon nigromaculata",
+                    "year": "1877",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -128,19 +213,39 @@
             "name": "M. J. Rathbun",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Alaska coastal shrimp",
+                    "speciesName": "Heptacarpus moseri",
+                    "year": "1902",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Aleutian coastal shrimp",
+                    "speciesName": "Heptacarpus maxillipes",
+                    "year": "1902",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "blunt blade shrimp",
+                    "speciesName": "Spirontocaris truncata",
+                    "year": "1902",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "brown snapping shrimp",
+                    "speciesName": "Alpheus armatus",
+                    "year": "1901",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 }
             ],
@@ -151,7 +256,12 @@
             "name": "Makarov",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Alaskan pink shrimp",
+                    "speciesName": "Pandalus eous",
+                    "year": "1935",
+                    "maxLength": "n/a",
+                    "minDepth": "500",
+                    "maxDepth": "900",
                     "colname": "level3"
                 }
             ],
@@ -162,7 +272,12 @@
             "name": "Dexter",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "alkali fairy shrimp",
+                    "speciesName": "Branchinecta mackini",
+                    "year": "1956",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -173,15 +288,30 @@
             "name": "Holthuis",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "anchialine pool shrimp or Maui anchialine shrimp",
+                    "speciesName": "Palaemonella burnsi",
+                    "year": "1973",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Caribbean ascidian shrimp",
+                    "speciesName": "Periclimenaeus ascidiarum",
+                    "year": "1951",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "73",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "cock shrimp",
+                    "speciesName": "Exhippolysmata oplophoroides",
+                    "year": "1948",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "27",
                     "colname": "level3"
                 }
             ],
@@ -192,7 +322,12 @@
             "name": "A. H. Banner & D. M. Banner",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "anchialine snapping shrimp",
+                    "speciesName": "Metabetaeus lohena",
+                    "year": "1960",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -203,7 +338,12 @@
             "name": "Ramadan",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Arabian red shrimp",
+                    "speciesName": "Aristeus alcocki",
+                    "year": "1938",
+                    "maxLength": "15",
+                    "minDepth": "270",
+                    "maxDepth": "1086",
                     "colname": "level3"
                 }
             ],
@@ -214,7 +354,12 @@
             "name": "Racek & Dall",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Arafura shrimp",
+                    "speciesName": "Parapenaeopsis arafurica",
+                    "year": "1965",
+                    "maxLength": "5.8",
+                    "minDepth": "16",
+                    "maxDepth": "16",
                     "colname": "level3"
                 }
             ],
@@ -222,10 +367,15 @@
             "amount": "1"
         },
         {
-            "name": "Murdock",
+            "name": "Murdoch",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Arctic fairy shrimp",
+                    "speciesName": "Polyartemiella hazeni",
+                    "year": "1884",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -236,19 +386,39 @@
             "name": "Spence Bate",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Argentine red shrimp",
+                    "speciesName": "Pleoticus muelleri",
+                    "year": "1888",
+                    "maxLength": "19",
+                    "minDepth": "2",
+                    "maxDepth": "174",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Argentine stiletto shrimp",
+                    "speciesName": "Artemesia longinaris",
+                    "year": "1888",
+                    "maxLength": "10.6",
+                    "minDepth": "0",
+                    "maxDepth": "125",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "comb shrimp",
+                    "speciesName": "Solenocera pectinata",
+                    "year": "1888",
+                    "maxLength": "7.5",
+                    "minDepth": "4",
+                    "maxDepth": "205",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "combclaw shrimp",
+                    "speciesName": "Leptochela serratorbita",
+                    "year": "1888",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "110",
                     "colname": "level3"
                 }
             ],
@@ -259,7 +429,12 @@
             "name": "A. Milne-Edwards",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "armed nylon shrimp",
+                    "speciesName": "Heterocarpus ensifer",
+                    "year": "1881",
+                    "maxLength": "14.2",
+                    "minDepth": "57",
+                    "maxDepth": "3000",
                     "colname": "level3"
                 }
             ],
@@ -270,7 +445,12 @@
             "name": "A. Costa",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "arrow shrimp",
+                    "speciesName": "Plesionika heterocarpus",
+                    "year": "1871",
+                    "maxLength": "8.8",
+                    "minDepth": "35",
+                    "maxDepth": "850",
                     "colname": "level3"
                 }
             ],
@@ -281,11 +461,21 @@
             "name": "Risso",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Atlantic mud shrimp",
+                    "speciesName": "Solenocera membranacea",
+                    "year": "1816",
+                    "maxLength": "11.2",
+                    "minDepth": "3",
+                    "maxDepth": "871",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "blue and red shrimp",
+                    "speciesName": "Aristeus antennatus",
+                    "year": "1816",
+                    "maxLength": "22",
+                    "minDepth": "80",
+                    "maxDepth": "3300",
                     "colname": "level3"
                 }
             ],
@@ -296,7 +486,12 @@
             "name": "Fransen",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Atlantic pearl oyster shrimp",
+                    "speciesName": "Pontonia manningi",
+                    "year": "2000",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "60",
                     "colname": "level3"
                 }
             ],
@@ -307,7 +502,12 @@
             "name": "Gibbes",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Atlantic pen shrimp",
+                    "speciesName": "Pontonia domestica",
+                    "year": "1850",
+                    "maxLength": "n/a",
+                    "minDepth": "1",
+                    "maxDepth": "42",
                     "colname": "level3"
                 }
             ],
@@ -318,15 +518,30 @@
             "name": "Dana",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Australian ghost shrimp",
+                    "speciesName": "Trypaea australiensis",
+                    "year": "1852",
+                    "maxLength": "6",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "bay ghost shrimp",
+                    "speciesName": "Neotrypaea californiensis",
+                    "year": "1854",
+                    "maxLength": "11.5",
+                    "minDepth": "0",
+                    "maxDepth": "100",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "blue mud shrimp",
+                    "speciesName": "Upogebia pugettensis",
+                    "year": "1852",
+                    "maxLength": "15",
+                    "minDepth": "0",
+                    "maxDepth": "1",
                     "colname": "level3"
                 }
             ],
@@ -337,11 +552,21 @@
             "name": "Dall",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Australian rose shrimp",
+                    "speciesName": "Parapenaeus australiensis",
+                    "year": "1957",
+                    "maxLength": "16",
+                    "minDepth": "124",
+                    "maxDepth": "180",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "brown rough shrimp",
+                    "speciesName": "Trachysalambria fulva",
+                    "year": "1957",
+                    "maxLength": "6.3",
+                    "minDepth": "8",
+                    "maxDepth": "85",
                     "colname": "level3"
                 }
             ],
@@ -352,11 +577,21 @@
             "name": "Ortmann",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "aviu shrimp",
+                    "speciesName": "Acetes americanus",
+                    "year": "1893",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "42",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "carinate glass shrimp",
+                    "speciesName": "Leptochela carinata",
+                    "year": "1893",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "600",
                     "colname": "level3"
                 }
             ],
@@ -367,7 +602,12 @@
             "name": "J. E. Benedict",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Balcones cave shrimp",
+                    "speciesName": "Palaemon antrorum",
+                    "year": "1896",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -378,7 +618,12 @@
             "name": "Olivier",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "banded coral shrimp",
+                    "speciesName": "Stenopus hispidus",
+                    "year": "1811",
+                    "maxLength": "n/a",
+                    "minDepth": "1",
+                    "maxDepth": "200",
                     "colname": "level3"
                 }
             ],
@@ -389,11 +634,21 @@
             "name": "H. Milne-Edwards",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "banded snapping shrimp",
+                    "speciesName": "Alpheus armillatus",
+                    "year": "1837",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "14",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "coastal mud shrimp or udang merah",
+                    "speciesName": "Solenocera crassicornis",
+                    "year": "1837",
+                    "maxLength": "12.9",
+                    "minDepth": "0",
+                    "maxDepth": "175",
                     "colname": "level3"
                 }
             ],
@@ -404,19 +659,39 @@
             "name": "Holmes",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "barred grass shrimp",
+                    "speciesName": "Palaemon ritteri",
+                    "year": "1895",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "38",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "California coastal shrimp",
+                    "speciesName": "Heptacarpus paludicola",
+                    "year": "1900",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "California freshwater shrimp",
+                    "speciesName": "Syncaris pacifica",
+                    "year": "1895",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "California green shrimp",
+                    "speciesName": "Hippolyte californiensis",
+                    "year": "1895",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -427,7 +702,12 @@
             "name": "Jensen",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "barred shrimp",
+                    "speciesName": "Heptacarpus pugettensis",
+                    "year": "1983",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -438,15 +718,30 @@
             "name": "Chace",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "basketstar shrimp",
+                    "speciesName": "Periclimenes perryae",
+                    "year": "1942",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "10",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "black urchin shrimp or black-urchin shrimp",
+                    "speciesName": "Tuleariocaris neglecta",
+                    "year": "1969",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "bluntclaw snapping shrimp",
+                    "speciesName": "Alpheus amblyonyx",
+                    "year": "1972",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "40",
                     "colname": "level3"
                 }
             ],
@@ -457,11 +752,21 @@
             "name": "Schmitt",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "beach ghost shrimp",
+                    "speciesName": "Callichirus islagrande",
+                    "year": "1935",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "3",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "black sponge shrimp",
+                    "speciesName": "Periclimenaeus pearsei",
+                    "year": "1932",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "46",
                     "colname": "level3"
                 }
             ],
@@ -472,11 +777,21 @@
             "name": "Packard",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "beaver-tail fairy shrimp",
+                    "speciesName": "Thamnocephalus platyurus",
+                    "year": "1877",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Colorado fairy shrimp",
+                    "speciesName": "Branchinecta coloradensis",
+                    "year": "1874",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -487,7 +802,12 @@
             "name": "Gurney",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Bermuda comb shrimp",
+                    "speciesName": "Leptochela bermudensis",
+                    "year": "1939",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "1000",
                     "colname": "level3"
                 }
             ],
@@ -498,7 +818,12 @@
             "name": "Rankin",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Bermuda night shrimp",
+                    "speciesName": "Processa bermudensis",
+                    "year": "1900",
+                    "maxLength": "n/a",
+                    "minDepth": "2",
+                    "maxDepth": "45",
                     "colname": "level3"
                 }
             ],
@@ -509,7 +834,12 @@
             "name": "Lebour",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Bermuda shrimp",
+                    "speciesName": "Periclimenes harringtoni",
+                    "year": "1949",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "119",
                     "colname": "level3"
                 }
             ],
@@ -520,7 +850,12 @@
             "name": "Armstrong",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Bermuda sponge shrimp",
+                    "speciesName": "Holthuisaeus bermudensis",
+                    "year": "1940",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "20",
                     "colname": "level3"
                 }
             ],
@@ -531,7 +866,12 @@
             "name": "Biffar",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "biform ghost shrimp",
+                    "speciesName": "Biffarius biformis",
+                    "year": "1971",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "15",
                     "colname": "level3"
                 }
             ],
@@ -542,11 +882,21 @@
             "name": "Linnaeus",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "bigclaw river shrimp",
+                    "speciesName": "Macrobrachium carcinus",
+                    "year": "1758",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "common shrimp",
+                    "speciesName": "Crangon crangon",
+                    "year": "1758",
+                    "maxLength": "8.9",
+                    "minDepth": "0",
+                    "maxDepth": "50",
                     "colname": "level3"
                 }
             ],
@@ -557,23 +907,48 @@
             "name": "Say",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "bigclaw snapping shrimp",
+                    "speciesName": "Alpheus heterochaelis",
+                    "year": "1818",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "79",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "brown grass shrimp",
+                    "speciesName": "Leander tenuicornis",
+                    "year": "1818",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "71",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Carolinian ghost shrimp",
+                    "speciesName": "Callichirus major",
+                    "year": "1818",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "coastal mud shrimp",
+                    "speciesName": "Upogebia affinis",
+                    "year": "1818",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "38",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "common grass shrimp",
+                    "speciesName": "Palaemon vulgaris",
+                    "year": "1818",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "15",
                     "colname": "level3"
                 }
             ],
@@ -584,19 +959,39 @@
             "name": "Stimpson",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "blacktail bay shrimp or blacktailed shrimp",
+                    "speciesName": "Crangon nigricauda",
+                    "year": "1856",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "blue shrimp",
+                    "speciesName": "Penaeus stylirostris",
+                    "year": "1874",
+                    "maxLength": "23",
+                    "minDepth": "0",
+                    "maxDepth": "45",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "brown rock shrimp",
+                    "speciesName": "Sicyonia brevirostris",
+                    "year": "1871",
+                    "maxLength": "15.3",
+                    "minDepth": "1",
+                    "maxDepth": "330",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "California bay shrimp or california shrimp",
+                    "speciesName": "Crangon franciscorum",
+                    "year": "1856",
+                    "maxLength": "6",
+                    "minDepth": "5",
+                    "maxDepth": "50",
                     "colname": "level3"
                 }
             ],
@@ -604,14 +999,24 @@
             "amount": "4"
         },
         {
-            "name": "Giebal",
+            "name": "Giebel",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "blue rhino shrimp or gabon shrimp",
+                    "speciesName": "Atya gabonensis",
+                    "year": "1875",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Cameroon fan shrimp or gabon shrimp",
+                    "speciesName": "Atya gabonensis",
+                    "year": "1875",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -622,7 +1027,12 @@
             "name": "Coutière",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "bristle snapping shrimp",
+                    "speciesName": "Alpheus spongiarum",
+                    "year": "1897",
+                    "maxLength": "n/a",
+                    "minDepth": "37",
+                    "maxDepth": "42",
                     "colname": "level3"
                 }
             ],
@@ -633,11 +1043,21 @@
             "name": "Wiegmann",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "bristled river shrimp",
+                    "speciesName": "Macrobrachium olfersii",
+                    "year": "1836",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "cinnamon river shrimp",
+                    "speciesName": "Macrobrachium acanthurus",
+                    "year": "1836",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 }
             ],
@@ -648,7 +1068,12 @@
             "name": "Dawson",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "broadspine ghost shrimp",
+                    "speciesName": "Dawsonius latispina",
+                    "year": "1967",
+                    "maxLength": "n/a",
+                    "minDepth": "3",
+                    "maxDepth": "134",
                     "colname": "level3"
                 }
             ],
@@ -659,7 +1084,12 @@
             "name": "Ives",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "brown shrimp or northern brown shrimp",
+                    "speciesName": "Penaeus aztecus",
+                    "year": "1891",
+                    "maxLength": "19.5",
+                    "minDepth": "0",
+                    "maxDepth": "200",
                     "colname": "level3"
                 }
             ],
@@ -670,7 +1100,12 @@
             "name": "De Haan",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "brownbar snapping shrimp",
+                    "speciesName": "Alpheus lobidens",
+                    "year": "1849",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "25",
                     "colname": "level3"
                 }
             ],
@@ -681,11 +1116,21 @@
             "name": "Guérin-Méneville",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "bumblebee shrimp",
+                    "speciesName": "Gnathophyllum americanum",
+                    "year": "1855",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "50",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "Caribbean pen shrimp",
+                    "speciesName": "Pontonia mexicana",
+                    "year": "1856",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2",
                     "colname": "level3"
                 }
             ],
@@ -696,7 +1141,12 @@
             "name": "Krygier & Wasmer",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Burkenroad blunt-tail shrimp",
+                    "speciesName": "Bentheogennema burkenroadi",
+                    "year": "1975",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "2000",
                     "colname": "level3"
                 }
             ],
@@ -707,7 +1157,12 @@
             "name": "White",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Cameroon ghost shrimp",
+                    "speciesName": "Lepidophthalmus turneranus",
+                    "year": "1861",
+                    "maxLength": "14.5",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -718,7 +1173,12 @@
             "name": "Krauss",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "cape mud shrimp",
+                    "speciesName": "Upogebia capensis",
+                    "year": "1843",
+                    "maxLength": "1.6",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -729,7 +1189,12 @@
             "name": "Burkenroad",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "carabali shrimp",
+                    "speciesName": "Rimapenaeus byrdi",
+                    "year": "1934",
+                    "maxLength": "18.9",
+                    "minDepth": "2",
+                    "maxDepth": "40",
                     "colname": "level3"
                 }
             ],
@@ -740,7 +1205,12 @@
             "name": "Baird",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Caribbean fairy shrimp",
+                    "speciesName": "Streptocephalus similis",
+                    "year": "1852",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -751,7 +1221,12 @@
             "name": "Berggren",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Caribbean glass-sponge shrimp",
+                    "speciesName": "Spongiocaris hexactinellicola",
+                    "year": "1993",
+                    "maxLength": "n/a",
+                    "minDepth": "606",
+                    "maxDepth": "1064",
                     "colname": "level3"
                 }
             ],
@@ -762,7 +1237,12 @@
             "name": "S. I. Smith",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Caribbean velvet shrimp",
+                    "speciesName": "Metapenaeopsis goodei",
+                    "year": "1885",
+                    "maxLength": "1.9",
+                    "minDepth": "0",
+                    "maxDepth": "329",
                     "colname": "level3"
                 }
             ],
@@ -773,7 +1253,12 @@
             "name": "Zariguiey Alvarez",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "catalonian striped shrimp",
+                    "speciesName": "Plesionika antigai",
+                    "year": "1955",
+                    "maxLength": "n/a",
+                    "minDepth": "120",
+                    "maxDepth": "800",
                     "colname": "level3"
                 }
             ],
@@ -784,7 +1269,12 @@
             "name": "J. C. Fabricius",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "cerulean sargassum shrimp",
+                    "speciesName": "Hippolyte coerulescens",
+                    "year": "1775",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "198",
                     "colname": "level3"
                 }
             ],
@@ -795,11 +1285,21 @@
             "name": "O. F. Müller",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "chameleon shrimp or bent mysid shrimp",
+                    "speciesName": "Praunus flexuosus",
+                    "year": "1776",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "5",
                     "colname": "level3"
                 },
                 {
-                    "name": "mister_a",
+                    "commonName": "circumpolar fairy shrimp",
+                    "speciesName": "Branchinecta paludosa",
+                    "year": "1788",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -810,7 +1310,12 @@
             "name": "Molina",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "changallo shrimp",
+                    "speciesName": "Macrobrachium caementarius",
+                    "year": "1782",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -821,7 +1326,12 @@
             "name": "Faxon",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Chilean knife shrimp",
+                    "speciesName": "Haliporoides diomedeae",
+                    "year": "1893",
+                    "maxLength": "10.1",
+                    "minDepth": "240",
+                    "maxDepth": "1865",
                     "colname": "level3"
                 }
             ],
@@ -832,7 +1342,12 @@
             "name": "Bahamonde",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "chilean nylon shrimp",
+                    "speciesName": "Heterocarpus reedi",
+                    "year": "1955",
+                    "maxLength": "3.4",
+                    "minDepth": "155",
+                    "maxDepth": "424",
                     "colname": "level3"
                 }
             ],
@@ -843,7 +1358,12 @@
             "name": "Sollaud",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "Chinese grass shrimp",
+                    "speciesName": "Palaemon sinensis",
+                    "year": "1911",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -854,7 +1374,12 @@
             "name": "Manning",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "circled shrimp or circled squat shrimp",
+                    "speciesName": "Gnathophyllum circellum",
+                    "year": "1963",
+                    "maxLength": "n/a",
+                    "minDepth": "0",
+                    "maxDepth": "18",
                     "colname": "level3"
                 }
             ],
@@ -865,7 +1390,12 @@
             "name": "Gordon",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "cleaner shrimp",
+                    "speciesName": "Lysmata grabhami",
+                    "year": "1935",
+                    "maxLength": "n/a",
+                    "minDepth": "6",
+                    "maxDepth": "91",
                     "colname": "level3"
                 }
             ],
@@ -876,7 +1406,12 @@
             "name": "Bruce",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "clear cleaner shrimp",
+                    "speciesName": "Urocaridella antonbruunii",
+                    "year": "1967",
+                    "maxLength": "n/a",
+                    "minDepth": "2",
+                    "maxDepth": "66",
                     "colname": "level3"
                 }
             ],
@@ -887,7 +1422,12 @@
             "name": "Hay",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "clear sponge shrimp",
+                    "speciesName": "Periclimenaeus wilsoni",
+                    "year": "1917",
+                    "maxLength": "n/a",
+                    "minDepth": "18",
+                    "maxDepth": "73",
                     "colname": "level3"
                 }
             ],
@@ -898,7 +1438,12 @@
             "name": "Haswell",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "clear sponge shrimp",
+                    "speciesName": "Periclimenaeus wilsoni",
+                    "year": "1917",
+                    "maxLength": "n/a",
+                    "minDepth": "18",
+                    "maxDepth": "73",
                     "colname": "level3"
                 }
             ],
@@ -909,7 +1454,12 @@
             "name": "Balss",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "companion shrimp",
+                    "speciesName": "Exhippolysmata hastatoides",
+                    "year": "1914",
+                    "maxLength": "7",
+                    "minDepth": "15",
+                    "maxDepth": "15",
                     "colname": "level3"
                 }
             ],
@@ -920,7 +1470,12 @@
             "name": "Eng, Belk and Erikson",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "conservancy fairy shrimp",
+                    "speciesName": "Branchinecta conservatio",
+                    "year": "1990",
+                    "maxLength": "n/a",
+                    "minDepth": "n/a",
+                    "maxDepth": "n/a",
                     "colname": "level3"
                 }
             ],
@@ -931,7 +1486,12 @@
             "name": "Brandt",
             "children": [
                 {
-                    "name": "mister_a",
+                    "commonName": "coonstriped shrimp",
+                    "speciesName": "Pandalus hypsinotus",
+                    "year": "1851",
+                    "maxLength": "20.9",
+                    "minDepth": "5",
+                    "maxDepth": "501",
                     "colname": "level3"
                 }
             ],
